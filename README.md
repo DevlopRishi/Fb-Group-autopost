@@ -47,6 +47,7 @@ The Facebook Group Poster is a GUI application designed to automate the process 
     - **Headless Mode**: Check this box to run the browser in headless mode.
     - **Proxy**: Enter the proxy in the format `ip:port` (optional).
 
+
 3. **Start Posting**:
     - Click the "Start Posting" button to begin the automated posting process.
     - View the log messages in the log display area.
